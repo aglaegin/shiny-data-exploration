@@ -2,5 +2,5 @@
 
 A Shiny application that shows univariate and bivariate statistics of a dataset.
 
-![Univariate statistics](univariate.png)
+<p align="center">![Univariate statistics](univariate.png)</p>
 <!---![Bivariate statistics](bivariate.png)--->
